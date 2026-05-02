@@ -2,4 +2,7 @@
 
 1. create account in github
 2. initialize local repo [git init]
-3.  
+3. edit some files
+4. check what is untracked [git status]
+5. add untracked files [git add ____ OR . para tanan]
+6. commit changes [git commit m "description of changes"]
